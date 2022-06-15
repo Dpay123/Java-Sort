@@ -1,0 +1,12 @@
+A
+C
+apparently capital letters get sorted first, then lowercase
+brown
+dog
+fox
+jumped
+lazy
+over
+quick
+the
+the
